@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# AWS credentials — NEVER commit these
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.zip
+
+# OS
+.DS_Store
