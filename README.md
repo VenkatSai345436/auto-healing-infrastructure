@@ -192,8 +192,4 @@ Status: ✅ SUCCESS
 
 ---
 
-## Author
 
-**Kakumanu Venkata Lakshmi Siva Bala Naga Sai**  
-DevOps Engineer Intern  
-AWS Certified Cloud Practitioner (CLF-C02)
